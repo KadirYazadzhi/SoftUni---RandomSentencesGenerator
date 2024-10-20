@@ -105,7 +105,7 @@ Feel free to fork this repository and submit pull requests! Contributions are we
 If you have any questions or suggestions, feel free to reach out at:
 
 - 📧 Email: kadiryazadzhi@gmail.com
-- 🌍 GitHub: [Your GitHub Profile](https://github.com/your-username)
+- 🌍 Portfolio: [Kadir Yazadzhi](https://kadiryazadzhi.github.io/portfolio/)
 
 ---
 
